@@ -1,5 +1,5 @@
 #GSSAPIKeyExchange no
-#GSSAPIEnablek5users no
+#GSSAPIEnablek5users n
 
 # Set this to 'yes' to enable PAM authentication, account processing,
 # and session processing. If this is enabled, PAM authentication will
